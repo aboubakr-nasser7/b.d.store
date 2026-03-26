@@ -74,7 +74,7 @@ nav i:hover{
 
 
 nav ul a{
-    font-size: 17px;
+    font-size: 20px;
     color: rgb(255, 128, 0);
     padding: 8px;
     justify-content: center;
@@ -101,7 +101,7 @@ nav ul a:hover{
 }
 
 #home .content img{
-    width: 400px;
+    width: 450px;
     border-radius: 15px;
     box-shadow: 0 60px 90px rgba(255, 255, 255, 0.4);
     animation: animation1 2s ease-out ;
